@@ -1,0 +1,70 @@
+Employee No.: 2222
+
+Basic Salary: 20000
+Phone Allowance: 1000
+Clothing Allowance: 1000
+Rice Allowance: 1500
+Bonus: 3000
+Insurance: 4000
+Tax: 2000
+Net: 26500
+Gross: 20500
+********************Employee No.: 1111
+
+Basic Salary: 25000
+Phone Allowance: 1000
+Clothing Allowance: 1000
+Rice Allowance: 1500
+Bonus: 5000
+Insurance: 5000
+Tax: 2500
+Net: 33500
+Gross: 26000
+********************Employee No.: 1111
+
+Basic Salary: 25000
+Phone Allowance: 1000
+Clothing Allowance: 1000
+Rice Allowance: 1500
+Bonus: 5000
+Insurance: 5000
+Tax: 2500
+Net: 33500
+Gross: 26000
+******************** 
+Employee No.: 2222
+
+Basic Salary: 20000
+Phone Allowance: 1000
+Clothing Allowance: 1000
+Rice Allowance: 1500
+Bonus: 3000
+Insurance: 4000
+Tax: 2000
+Net: 26500
+Gross: 20500
+******************** 
+Employee No.: 1111
+
+Basic Salary: 25000
+Phone Allowance: 1000
+Clothing Allowance: 1000
+Rice Allowance: 1500
+Bonus: 5000
+Insurance: 5000
+Tax: 2500
+Net: 33500
+Gross: 26000
+******************** 
+Employee No.: 1111
+
+Basic Salary: 25000
+Phone Allowance: 1000
+Clothing Allowance: 1000
+Rice Allowance: 1500
+Bonus: 5000
+Insurance: 5000
+Tax: 2500
+Net: 33500
+Gross: 26000
+******************** 
